@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/palindrome-checker/static/css/main.2607c027.css",
+    "main.js": "/palindrome-checker/static/js/main.ad55d9e6.js",
+    "index.html": "/palindrome-checker/index.html",
+    "main.2607c027.css.map": "/palindrome-checker/static/css/main.2607c027.css.map",
+    "main.ad55d9e6.js.map": "/palindrome-checker/static/js/main.ad55d9e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2607c027.css",
+    "static/js/main.ad55d9e6.js"
+  ]
+}
